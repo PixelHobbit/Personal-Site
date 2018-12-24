@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/web_BG.png);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-color: #f7f7f7;
+    font-size: 0.8em;
+    font-family: "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+}
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    padding: 15px;
+	margin-top: 100px;
+    border-radius: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+#header a{
+	text-decoration: none;
+}
+
+#header img {;
+    width: 80px;
+    height: 80px;
+}
+#header p {
+    font-size: 25pt;
+    color: #FFF9E7;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+}
+#contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+    border-radius: 50%;
+}
+#contacts a {
+	text-decoration: none;
+}
+#contacts {
+    margin: 15px
+}
+img:hover {
+    opacity: 0.8;
+}
