@@ -5,13 +5,13 @@
 }
 
 body{
-    background-image: url(img/web_BG.png);
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/940589036765256715/0C76D5997EBAEC65EB79DCFAD7B93BD704E4282B/');
     background-size: 100% 100%;
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-color: #f7f7f7;
     font-size: 0.8em;
-    font-family: "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+    font-family: 'Handlee', cursive;
 }
 .img-circle {
     border: 3px solid white;
